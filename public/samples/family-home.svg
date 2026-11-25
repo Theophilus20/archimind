@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1190" viewBox="0 0 1440 1190">
+<rect width="1440" height="1190" fill="#ffffff"/>
+<polygon points="107.5,182.5 285.0,182.5 285.0,157.5 107.5,157.5" fill="#111111"/>
+<polygon points="405.0,182.5 635.0,182.5 635.0,157.5 405.0,157.5" fill="#111111"/>
+<polygon points="705.0,182.5 955.0,182.5 955.0,157.5 705.0,157.5" fill="#111111"/>
+<polygon points="1135.0,182.5 1332.5,182.5 1332.5,157.5 1135.0,157.5" fill="#111111"/>
+<line x1="285" y1="182.5" x2="405" y2="182.5" stroke="#111" stroke-width="1.4"/>
+<line x1="285" y1="170" x2="405" y2="170" stroke="#111" stroke-width="1.4"/>
+<line x1="285" y1="157.5" x2="405" y2="157.5" stroke="#111" stroke-width="1.4"/>
+<line x1="285" y1="157.5" x2="285" y2="182.5" stroke="#111" stroke-width="1.4"/>
+<line x1="405" y1="157.5" x2="405" y2="182.5" stroke="#111" stroke-width="1.4"/>
+<line x1="635" y1="182.5" x2="705" y2="182.5" stroke="#111" stroke-width="1.4"/>
+<line x1="635" y1="170" x2="705" y2="170" stroke="#111" stroke-width="1.4"/>
+<line x1="635" y1="157.5" x2="705" y2="157.5" stroke="#111" stroke-width="1.4"/>
+<line x1="635" y1="157.5" x2="635" y2="182.5" stroke="#111" stroke-width="1.4"/>
+<line x1="705" y1="157.5" x2="705" y2="182.5" stroke="#111" stroke-width="1.4"/>
+<line x1="955" y1="182.5" x2="1135" y2="182.5" stroke="#111" stroke-width="1.4"/>
+<line x1="955" y1="170" x2="1135" y2="170" stroke="#111" stroke-width="1.4"/>
+<line x1="955" y1="157.5" x2="1135" y2="157.5" stroke="#111" stroke-width="1.4"/>
+<line x1="955" y1="157.5" x2="955" y2="182.5" stroke="#111" stroke-width="1.4"/>
+<line x1="1135" y1="157.5" x2="1135" y2="182.5" stroke="#111" stroke-width="1.4"/>
+<polygon points="1307.5,157.5 1307.5,310.0 1332.5,310.0 1332.5,157.5" fill="#111111"/>
+<polygon points="1307.5,430.0 1307.5,580.0 1332.5,580.0 1332.5,430.0" fill="#111111"/>
+<polygon points="1307.5,680.0 1307.5,810.0 1332.5,810.0 1332.5,680.0" fill="#111111"/>
+<polygon points="1307.5,930.0 1307.5,1082.5 1332.5,1082.5 1332.5,930.0" fill="#111111"/>
+<line x1="1307.5" y1="310" x2="1307.5" y2="430" stroke="#111" stroke-width="1.4"/>
+<line x1="1320" y1="310" x2="1320" y2="430" stroke="#111" stroke-width="1.4"/>
+<line x1="1332.5" y1="310" x2="1332.5" y2="430" stroke="#111" stroke-width="1.4"/>
+<line x1="1332.5" y1="310" x2="1307.5" y2="310" stroke="#111" stroke-width="1.4"/>
+<line x1="1332.5" y1="430" x2="1307.5" y2="430" stroke="#111" stroke-width="1.4"/>
+<line x1="1307.5" y1="680" x2="1207.5" y2="680" stroke="#111" stroke-width="2"/>
+<path d="M 1307.5 580 A 100 100 0 0 0 1207.5 680" fill="none" stroke="#111" stroke-width="1.2"/>
+<line x1="1307.5" y1="810" x2="1307.5" y2="930" stroke="#111" stroke-width="1.4"/>
+<line x1="1320" y1="810" x2="1320" y2="930" stroke="#111" stroke-width="1.4"/>
+<line x1="1332.5" y1="810" x2="1332.5" y2="930" stroke="#111" stroke-width="1.4"/>
+<line x1="1332.5" y1="810" x2="1307.5" y2="810" stroke="#111" stroke-width="1.4"/>
+<line x1="1332.5" y1="930" x2="1307.5" y2="930" stroke="#111" stroke-width="1.4"/>
+<polygon points="1332.5,1057.5 1110.0,1057.5 1110.0,1082.5 1332.5,1082.5" fill="#111111"/>
+<polygon points="930.0,1057.5 540.0,1057.5 540.0,1082.5 930.0,1082.5" fill="#111111"/>
+<polygon points="300.0,1057.5 107.5,1057.5 107.5,1082.5 300.0,1082.5" fill="#111111"/>
+<line x1="1110" y1="1057.5" x2="930" y2="1057.5" stroke="#111" stroke-width="1.4"/>
+<line x1="1110" y1="1070" x2="930" y2="1070" stroke="#111" stroke-width="1.4"/>
+<line x1="1110" y1="1082.5" x2="930" y2="1082.5" stroke="#111" stroke-width="1.4"/>
+<line x1="1110" y1="1082.5" x2="1110" y2="1057.5" stroke="#111" stroke-width="1.4"/>
+<line x1="930" y1="1082.5" x2="930" y2="1057.5" stroke="#111" stroke-width="1.4"/>
+<line x1="540" y1="1057.5" x2="300" y2="1057.5" stroke="#111" stroke-width="1.4"/>
+<line x1="540" y1="1070" x2="300" y2="1070" stroke="#111" stroke-width="1.4"/>
+<line x1="540" y1="1082.5" x2="300" y2="1082.5" stroke="#111" stroke-width="1.4"/>
+<line x1="540" y1="1082.5" x2="540" y2="1057.5" stroke="#111" stroke-width="1.4"/>
+<line x1="300" y1="1082.5" x2="300" y2="1057.5" stroke="#111" stroke-width="1.4"/>
+<polygon points="132.5,1082.5 132.5,495.0 107.5,495.0 107.5,1082.5" fill="#111111"/>
+<polygon points="132.5,345.0 132.5,157.5 107.5,157.5 107.5,345.0" fill="#111111"/>
+<line x1="132.5" y1="495" x2="132.5" y2="345" stroke="#111" stroke-width="1.4"/>
+<line x1="120" y1="495" x2="120" y2="345" stroke="#111" stroke-width="1.4"/>
+<line x1="107.5" y1="495" x2="107.5" y2="345" stroke="#111" stroke-width="1.4"/>
+<line x1="107.5" y1="495" x2="132.5" y2="495" stroke="#111" stroke-width="1.4"/>
+<line x1="107.5" y1="345" x2="132.5" y2="345" stroke="#111" stroke-width="1.4"/>
+<polygon points="565.0,170.0 565.0,690.0 575.0,690.0 575.0,170.0" fill="#111111"/>
+<polygon points="765.0,170.0 765.0,570.0 775.0,570.0 775.0,170.0" fill="#111111"/>
+<polygon points="570.0,575.0 632.5,575.0 632.5,565.0 570.0,565.0" fill="#111111"/>
+<polygon points="707.5,575.0 817.5,575.0 817.5,565.0 707.5,565.0" fill="#111111"/>
+<polygon points="902.5,575.0 1320.0,575.0 1320.0,565.0 902.5,565.0" fill="#111111"/>
+<line x1="632.5" y1="565" x2="632.5" y2="490" stroke="#111" stroke-width="2"/>
+<path d="M 707.5 565 A 75 75 0 0 0 632.5 490" fill="none" stroke="#111" stroke-width="1.2"/>
+<line x1="817.5" y1="565" x2="817.5" y2="480" stroke="#111" stroke-width="2"/>
+<path d="M 902.5 565 A 85 85 0 0 0 817.5 480" fill="none" stroke="#111" stroke-width="1.2"/>
+<polygon points="120.0,695.0 437.5,695.0 437.5,685.0 120.0,685.0" fill="#111111"/>
+<polygon points="522.5,695.0 600.0,695.0 600.0,685.0 522.5,685.0" fill="#111111"/>
+<polygon points="690.0,695.0 1320.0,695.0 1320.0,685.0 690.0,685.0" fill="#111111"/>
+<line x1="437.5" y1="685" x2="437.5" y2="600" stroke="#111" stroke-width="2"/>
+<path d="M 522.5 685 A 85 85 0 0 0 437.5 600" fill="none" stroke="#111" stroke-width="1.2"/>
+<line x1="600" y1="695" x2="600" y2="785" stroke="#111" stroke-width="2"/>
+<path d="M 690 695 A 90 90 0 0 1 600 785" fill="none" stroke="#111" stroke-width="1.2"/>
+<polygon points="715.0,690.0 715.0,780.0 725.0,780.0 725.0,690.0" fill="#111111"/>
+<polygon points="715.0,960.0 715.0,1070.0 725.0,1070.0 725.0,960.0" fill="#111111"/>
+<text x="345" y="460" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#111" letter-spacing="1">BEDROOM 1</text>
+<text x="670" y="400" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#111" letter-spacing="1">BATH</text>
+<text x="1045" y="400" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#111" letter-spacing="1">BEDROOM 2</text>
+<text x="945" y="640" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#111" letter-spacing="1">HALL</text>
+<text x="420" y="900" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#111" letter-spacing="1">LIVING</text>
+<text x="1020" y="900" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#111" letter-spacing="1">KITCHEN / DINING</text>
+<line x1="107.5" y1="60" x2="1332.5" y2="60" stroke="#111" stroke-width="1"/>
+<line x1="107.5" y1="50" x2="107.5" y2="70" stroke="#111" stroke-width="1"/>
+<line x1="101.5" y1="66" x2="113.5" y2="54" stroke="#111" stroke-width="1.6"/>
+<line x1="1332.5" y1="50" x2="1332.5" y2="70" stroke="#111" stroke-width="1"/>
+<line x1="1326.5" y1="66" x2="1338.5" y2="54" stroke="#111" stroke-width="1.6"/>
+<text x="720" y="52" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#111">12 250</text>
+<text x="120" y="1150" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#111">GROUND FLOOR PLAN  1:100   -   FAMILY HOME (STUDIO 2)</text>
+</svg>

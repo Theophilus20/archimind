@@ -1,0 +1,29 @@
+rules_version = '2';
+
+// Drawings, crit snapshots and GLB exports, readable and writable by project members only.
+service firebase.storage {
+  match /b/{bucket}/o {
+    function member(pid) {
+      return request.auth != null
+        && firestore.get(/databases/(default)/documents/projects/$(pid)).data.memberUids.hasAny([request.auth.uid]);
+    }
+
+    match /projects/{pid}/drawings/{file} {
+      allow read: if member(pid);
+      allow delete: if member(pid);
+      allow write: if member(pid) && request.resource.size < 15 * 1024 * 1024
+        && request.resource.contentType.matches('image/.*|application/pdf');
+    }
+    match /projects/{pid}/snapshots/{file} {
+      allow read: if member(pid);
+      allow delete: if member(pid);
+      allow write: if member(pid) && request.resource.size < 2 * 1024 * 1024
+        && request.resource.contentType.matches('image/.*');
+    }
+    match /projects/{pid}/exports/{file} {
+      allow read: if member(pid);
+      allow delete: if member(pid);
+      allow write: if member(pid) && request.resource.size < 50 * 1024 * 1024;
+    }
+  }
+}

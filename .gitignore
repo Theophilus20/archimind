@@ -1,0 +1,14 @@
+node_modules
+dist
+.env
+.env.local
+.env.*.local
+*.log
+.firebase
+.DS_Store
+
+# local editor and agent settings
+.claude/
+SUBMISSION.md
+VIDEO-SCRIPT.md
+video/

@@ -1,0 +1,60 @@
+{
+  "parameters": {
+    "cloud_model": {
+      "defaultValue": {
+        "useInAppDefault": true
+      },
+      "description": "Cloud Gemini model for Firebase AI Logic hybrid requests. In-app default: the SDK's hybrid default (gemini-3.5-flash-lite).",
+      "valueType": "STRING"
+    },
+    "enable_cloud_review": {
+      "defaultValue": {
+        "value": "true"
+      },
+      "description": "Allow the interpretive design review to run in the cloud. When false the review uses the deterministic fallback.",
+      "valueType": "BOOLEAN"
+    },
+    "on_device_first": {
+      "defaultValue": {
+        "value": "true"
+      },
+      "description": "Compact requests prefer Gemini Nano on device (PREFER_ON_DEVICE). False routes everything PREFER_IN_CLOUD.",
+      "valueType": "BOOLEAN"
+    },
+    "stream_rationale": {
+      "defaultValue": {
+        "value": "true"
+      },
+      "description": "Stream the design rationale with generateContentStream.",
+      "valueType": "BOOLEAN"
+    },
+    "max_plan_px": {
+      "defaultValue": {
+        "value": "1600"
+      },
+      "description": "Longest edge (px) used when rasterising uploaded drawings for detection.",
+      "valueType": "NUMBER"
+    },
+    "crit_room_live": {
+      "defaultValue": {
+        "value": "true"
+      },
+      "description": "Enable live presence and camera follow in the crit room.",
+      "valueType": "BOOLEAN"
+    },
+    "announcement": {
+      "defaultValue": {
+        "value": ""
+      },
+      "description": "Banner text shown to every open session in real time. Empty hides the banner.",
+      "valueType": "STRING"
+    },
+    "limited_use_tokens": {
+      "defaultValue": {
+        "value": "false"
+      },
+      "description": "Single-use App Check tokens for AI requests (a reCAPTCHA check on every request).",
+      "valueType": "BOOLEAN"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "walk": {
+      "$room": {
+        ".read": "auth != null && $room.length >= 40",
+        "$id": {
+          ".write": "auth != null && $room.length >= 40 && $id.beginsWith(auth.uid + '__')",
+          ".validate": "newData.hasChildren(['member', 'walk'])",
+          "member": {
+            ".validate": "newData.child('id').val() === auth.uid && newData.child('name').isString() && newData.child('name').val().length <= 80"
+          },
+          "walk": {
+            ".validate": "newData.child('x').isNumber() && newData.child('y').isNumber() && newData.child('yaw').isNumber() && newData.child('at').isNumber()"
+          },
+          "$other": {
+            ".validate": false
+          }
+        }
+      }
+    }
+  }
+}
